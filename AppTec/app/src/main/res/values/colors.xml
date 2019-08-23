@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3D8F38</color>
+    <color name="colorPrimaryDark">#5D4037</color>
+    <color name="colorAccent">#000</color>
+    <color name="backgroundFragment">#fff</color>
+    <color name="text">#000</color>
+    <color name="linea">#000</color>
+    <color name="fondo">#fff</color>
+    <color name="reloj">#34AC30</color>
+</resources>
